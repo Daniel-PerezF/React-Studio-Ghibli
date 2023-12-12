@@ -5,6 +5,9 @@ export type FilmsProps = {
   original_title: string;
   release_date: string;
   title: string;
+  director: string;
+  producer: string;
+  running_time: string;
 };
 
 export type MenuModalProps = {
