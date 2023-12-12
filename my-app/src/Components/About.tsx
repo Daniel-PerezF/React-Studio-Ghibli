@@ -4,7 +4,7 @@ export function About() {
       <h3 className="flex justify-center text-2xl lg:text-4xl text-white py-4">
         About Studio Ghbili
       </h3>
-      <div className="border border-white bg-white rounded-2xl p-4 ">
+      <div className="border border-white bg-white rounded-2xl p-5 ">
         <div className="lg:flex lg:justify-center">
           <img src="/About.png" className="lg:max-w-[50%] rounded-lg pb-4" />
         </div>
