@@ -24,7 +24,7 @@ export function About() {
           by the directors Hayao Miyazaki and Isao Takahata and producer Toshio
           Suzuki, after acquiring Topcraft's assets. The studio has also
           collaborated with video game studios on the visual development of
-          several games.
+          several games .
         </p>
       </div>
     </div>
